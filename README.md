@@ -6,3 +6,8 @@ Install required packages in virtual or conda enviornments using `pip install -r
 
 # Launching app
 Run `streamlit run app.py` within the command line.
+
+# Hosted app
+https://sftwre-first-stapp.streamlit.app/
+
+![](./assets/sftwre_first_stapp.gif)
